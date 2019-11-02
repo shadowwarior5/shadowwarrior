@@ -5,7 +5,7 @@ sections:
     component: HeroBlock
     type: heroblock
     content: >-
-     Excited to see you here! In my blog I mostly talk about things that interest me, like Web development, React, HTML5 and share of pet projects I am working on. I will be very happy if you'll find something useful for you!
+     Excited to see you here! In my blog I mostly talk about things that interest me, like Web development, React, HTML5 and share some of my pet projects I am working on. I will be very happy if you'll find something useful for you!
 
   - section_id: about
     component: ContentBlock
