@@ -5,14 +5,15 @@ sections:
     component: HeroBlock
     type: heroblock
     content: >-
-     I am a software engineer from Israel. I have a passion for web development and specialize in designing, developing, deploying, maintaining and debugging end-to-end web applications all over the stack, willing to learn new technologies and taking new exciting challenges.
+     Excited to see you here! In my blog I mostly talk about things that interest me, like Web development, React, HTML5 and share of pet projects I am working on. I will be very happy if you'll find something useful for you!
 
   - section_id: about
     component: ContentBlock
     type: contentblock
     title: About
     content: >-
-      In my blog I mostly talk about things that interest me, like Web development, React, HTML5 and share of pet projects I am working on. 
+      I have a passion for web development and specialize in designing, developing, deploying, maintaining and debugging end-to-end web applications all over the stack, willing to learn new technologies and taking new exciting challenges.
+
     actions:
       - label: Contact Me
         url: /contact
