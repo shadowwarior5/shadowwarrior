@@ -5,17 +5,20 @@ sections:
     component: HeroBlock
     type: heroblock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Hi! I am Konstantin and I am a software engineer from Israel. I have a passion for web development and specialize in designing, developing, deploying, maintaining and debugging end-to-end web applications all over the stack, willing to learn new technologies and taking new exciting challenges.
+
   - section_id: about
     component: ContentBlock
     type: contentblock
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      What can I bring?
+      - 9 years of experience in large scale web application development using various tools and platforms such as Angular, React, Node, Java Spring
+      - Expertise in modern Javascript and web development concepts, Typescript, ECMA script, CSS3, Webpack, cross-browser and device compatibility
+      - Experience in creating CI/CD pipelines, A/B testing, monitoring, automated tests with Karma, Selenium, Jenkins, AWS, CircleCI, Applitools, Browserstack
+      - Experience in effective collaboration with product and design
+      - Strong computer science background
+      - Lots of passion for creating cool products and accepting new challenges 
     actions:
       - label: Contact Me
         url: /contact
