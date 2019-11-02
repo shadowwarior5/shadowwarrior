@@ -5,14 +5,14 @@ sections:
     component: HeroBlock
     type: heroblock
     content: >-
-      Hi! I am Konstantin and I am a software engineer from Israel. I have a passion for web development and specialize in designing, developing, deploying, maintaining and debugging end-to-end web applications all over the stack, willing to learn new technologies and taking new exciting challenges.
+     I am a software engineer from Israel. I have a passion for web development and specialize in designing, developing, deploying, maintaining and debugging end-to-end web applications all over the stack, willing to learn new technologies and taking new exciting challenges.
 
   - section_id: about
     component: ContentBlock
     type: contentblock
     title: About
     content: >-
-      In my blog I mostly talk about things that interest me: Web development, React, HTML5 and share of pet projects I am working on
+      In my blog I mostly talk about things that interest me, like Web development, React, HTML5 and share of pet projects I am working on. 
     actions:
       - label: Contact Me
         url: /contact
