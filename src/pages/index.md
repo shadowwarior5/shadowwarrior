@@ -12,13 +12,7 @@ sections:
     type: contentblock
     title: About
     content: >-
-      What can I bring?
-      - 9 years of experience in large scale web application development using various tools and platforms such as Angular, React, Node, Java Spring
-      - Expertise in modern Javascript and web development concepts, Typescript, ECMA script, CSS3, Webpack, cross-browser and device compatibility
-      - Experience in creating CI/CD pipelines, A/B testing, monitoring, automated tests with Karma, Selenium, Jenkins, AWS, CircleCI, Applitools, Browserstack
-      - Experience in effective collaboration with product and design
-      - Strong computer science background
-      - Lots of passion for creating cool products and accepting new challenges 
+      In my blog I mostly talk about things that interest me: Web development, React, HTML5 and share of pet projects I am working on
     actions:
       - label: Contact Me
         url: /contact
